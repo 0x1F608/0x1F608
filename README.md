@@ -2,7 +2,7 @@
 {
   "name": "0x1F608",
   "age": 15,
-  "os": void linux,
+  "os": void linux",
   "interests": [
     "Programming",
     "Reading",
@@ -15,7 +15,7 @@
   ],
   "favorites": {
     "books": [
-      "50 tons of metal music,
+      "50 tons of metal music",
       "A year in the meirde",
       "The grim tales",
     ],
