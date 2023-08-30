@@ -2,7 +2,7 @@
 {
   "name": "0x1F608",
   "age": 15,
-  "os": void linux",
+  "os": "void linux",
   "interests": [
     "Programming",
     "Reading",
