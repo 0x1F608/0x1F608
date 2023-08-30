@@ -5,9 +5,8 @@
   "os": "void linux",
   "interests": [
     "Programming",
-    "Reading",
-    "Hiking",
-    "Cooking",
+    "Watching movies",
+    "Piracy",
     "Music"
   ],
   "languages": [
