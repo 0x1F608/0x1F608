@@ -1,3 +1,6 @@
+
+Hi there I am a programmer than enjoys coding tools no one will use because there are better ones, I currently only know python but hope to learn others soon.
+
 ```json
 {
   "name": "0x1F608",
@@ -33,3 +36,7 @@
   },
   "website": "0x1F608.github.io"
 }
+
+```
+Is your network safe?
+```
